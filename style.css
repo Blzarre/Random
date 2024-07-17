@@ -2,3 +2,59 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h1{
+  color:purple;
+}
+
+p{
+  color:red;
+}
+
+h1,
+p{
+  color:blue;
+}
+
+footer {
+  color:magenta;
+}
+
+.casw  {
+  background-color:skyblue;
+}
+
+#number {
+  color:aquamarine;
+}
+
+#email {
+  color:lightpink
+}
+
+.social {
+   background-color:lightgreen;
+}
+
+a:hover{
+  font-size: 50px;
+}
+
+.navbar{
+list-style-type: none;
+margin: 0;
+ padding: 0; 
+
+}
+
+.navbar li{
+ display: inline-block;
+  margin-right: 10px
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: deepskyblue;
+  padding: 5px;
+  
+}
